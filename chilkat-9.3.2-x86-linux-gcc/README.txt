@@ -1,0 +1,1 @@
+See the doc/README.html for the Chilkat documentation.
